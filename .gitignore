@@ -44,9 +44,6 @@ Thumbs.db
 # Data (opcional - remova esta linha se quiser versionar o CSV)
 # Country-data.csv
 
-# Screenshots
-screenshot_*.png
-
 # PDF gerado
 *_pd.PDF
 *.pdf
